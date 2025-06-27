@@ -1,5 +1,5 @@
-This package was made for Ros2 Jazzy and the template was designed for the open manipulator x
-# to install the package clone the repository on your workspace folder example "/${workspace}/src"
+# This package was made for Ros2 Jazzy and the template was designed for the open manipulator x
+#to install the package clone the repository on your workspace folder example "/${workspace}/src"
 git clone -b jazzy https://github.com/SybilSystem001/Moveit_open_x.git
 
 #to build only this package run the following command
